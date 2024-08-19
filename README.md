@@ -20,3 +20,6 @@ There were two stages of data collection:
 
 ## Initial Issues
 Originally, as seen in Final.py, 500 songs were scraped from Rolling Stone's Top 500 Songs of All Time list. Afterwords, it became clear that the outcome variable of the intended ML algorithm is popularity -- having a dataset solely containing popular songs would make the model less accurate. The scraping approach above was adopted instead.
+
+## Literature Review
+A significant amount of research has been done in the field of music popularity analysis, including research at Spotify, in Kaggle competitions, and from other sources. This research is unique as it employs a unique dataset and methodology of data collection.
